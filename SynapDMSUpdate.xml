@@ -1,0 +1,10 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.0</latestVersion>
+    <latestVersionCode>20200328</latestVersionCode>
+    <url>https://productionhalostorage.blob.core.windows.net/dmsystem/Synap_1.0_2020-03-27%2012-23.apk</url>
+    <releaseNotes>
+		- First Try
+    </releaseNotes>
+  </update>
+</AppUpdater>
