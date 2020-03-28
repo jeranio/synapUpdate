@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2</latestVersion>
-    <url>https://github.com/jeranio/synapUpdate/blob/master/app-debug.apk</url>
+    <url>https://raw.githubusercontent.com/jeranio/synapUpdate/master/app-debug.apk</url>
     <releaseNotes>
 		- First Try
     </releaseNotes>
