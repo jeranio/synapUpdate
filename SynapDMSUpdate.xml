@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>2</latestVersion>
-    <latestVersionCode>20200328</latestVersionCode>
+    <latestVersionCode>2</latestVersionCode>
     <url>https://github.com/jeranio/</url>
     <releaseNotes>
 		- First Try
