@@ -1,7 +1,6 @@
 <AppUpdater>
   <update>
     <latestVersion>2</latestVersion>
-    <latestVersionCode>2</latestVersionCode>
     <url>https://github.com/jeranio/app-debug.apk</url>
     <releaseNotes>
 		- First Try
